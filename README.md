@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/alishbaazmat/REPO_NAME/main/assets/banner.png)
+![Banner](https://github.com/alishbaazmat/alishbaazmat/blob/main/Green%20and%20White%20Minimalist%20Business%20Profile%20with%20Photo%20Profile%20LinkedIn%20Banner%20(1).png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Alishba Azmat</h1>
 <h3 align="center">Passionate frontend developer from Pakistan | Turning ideas into clean designs</h3>
