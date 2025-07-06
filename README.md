@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/alishbaazmat/alishbaazmat/blob/main/Green%20and%20White%20Minimalist%20Business%20Profile%20with%20Photo%20Profile%20LinkedIn%20Banner%20(1).png?raw=true" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alishba-azmat" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/alishba-azmat-1861a531b/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alishba Azmat LinkedIn" height="30" width="40" />
   </a>
 </p>
 
@@ -39,8 +39,5 @@
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishbaazmat&layout=compact&theme=radical" alt="alishbaazmat" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishbaazmat&theme=radical" alt="alishbaazmat" />
 </p>
 
